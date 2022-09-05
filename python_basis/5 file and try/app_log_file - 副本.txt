@@ -1,0 +1,10 @@
+
+------出错了------
+
+日期时间： 2022-07-20 11:09:41.786104
+
+异常类型：MyException
+异常描述: ('division by zero', <traceback object at 0x0000025E19E7CCC0>)
+堆栈跟踪信息：
+  File "<ipython-input-11-ed37b3cd78c1>", line 21, in <module>
+    print(5 / 0)
